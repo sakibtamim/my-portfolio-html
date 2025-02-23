@@ -721,6 +721,42 @@ img {
 }
 /* projects part end */
 
+/* volunteer part start */
+#volunteer {
+  padding-bottom: 130px;
+}
+.volunteer_head h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  padding-bottom: 50px;
+}
+.volunteer_body h3 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #181818;
+  padding-bottom: 10px;
+}
+.volunteer_body h6 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #474747;
+  padding-bottom: 10px;
+}
+.volunteer_body ul {
+  list-style: disc;
+  margin-left: -12px;
+}
+.volunteer_body ul li {
+  font-size: 16px;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+.volu_mdl {
+  padding: 24px 0;
+}
+/* volunteer part end */
+
 /* contact part start */
 #contact {
   padding: 130px 0;
